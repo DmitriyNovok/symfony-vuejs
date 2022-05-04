@@ -18,3 +18,36 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
+composer
+composer.phar
+composer.lock
+node_modules/
+vendor/
+#package-lock.json
+npm-debug.log
+yarn-error.log
+yarn.lock
+rr
+public/storage/cache*
+public/storage/.cache*
+#public/css/*
+#public/js/*
+#public/img/*
+public/.DS_Store
+php_logs.log
+.docker/atlanta/.data
+.docker-sync/
+public/storage
+public/sitemap*.xml
+
+# Editor directories and files
+.DS_Store
+.idea
+.idea/
+.vscode
+.vscode/
+.history
+.history/
+*.suo
+*.ntvs*
+*.njsproj
